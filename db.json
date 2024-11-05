@@ -1,0 +1,20 @@
+{
+    "cars": [
+      {
+        "id": "1",
+        "model": "Civic",
+        "brand": "Honda",
+        "year": 2022,
+        "price": 150000.0,
+        "quantity": 5,
+        "categoryId": "cat1"
+      }
+    ],
+    "categories": [
+      {
+        "id": "cat1",
+        "name": "Sedans",
+        "description": "Carros sedan de luxo"
+      }
+    ]
+  }
